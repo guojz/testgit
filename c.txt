@@ -2,3 +2,4 @@ sldjflsfj:wq
 sdfsdkf
 sdfsdfsfdsd
 fenzhifenzhi
+git merge -no -ff -m
